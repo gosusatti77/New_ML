@@ -6,5 +6,6 @@ seaborn
 catboost
 xgboost
 dill
+flask
 -e .
 # -e .  # Uncomment this line if you want to install the package in editable mode
