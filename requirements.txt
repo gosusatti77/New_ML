@@ -5,7 +5,7 @@ scikit-learn
 seaborn
 catboost
 xgboost
-cv2
+opencv-python
 dill
 flask
 -e .
